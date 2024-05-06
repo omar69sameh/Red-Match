@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Desktop\assignment 4 multimidea\Problem_12\bin\Debug\Problem_12.exe.config
+C:\Users\HP\OneDrive\Desktop\assignment 4 multimidea\Problem_12\bin\Debug\Problem_12.exe
+C:\Users\HP\OneDrive\Desktop\assignment 4 multimidea\Problem_12\bin\Debug\Problem_12.pdb
+C:\Users\HP\OneDrive\Desktop\assignment 4 multimidea\Problem_12\obj\Debug\Problem_12.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\assignment 4 multimidea\Problem_12\obj\Debug\Problem_12.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Desktop\assignment 4 multimidea\Problem_12\obj\Debug\Problem_12.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\assignment 4 multimidea\Problem_12\obj\Debug\Problem_12.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\assignment 4 multimidea\Problem_12\obj\Debug\Problem_12.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\assignment 4 multimidea\Problem_12\obj\Debug\Problem_12.exe
+C:\Users\HP\OneDrive\Desktop\assignment 4 multimidea\Problem_12\obj\Debug\Problem_12.pdb
